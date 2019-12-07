@@ -1,2 +1,2 @@
 # vk_scraper
-vk scraper
+before using my programs you should install vk: pip install vk
